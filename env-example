@@ -1,0 +1,6 @@
+PORT=3000
+DB_USER='database_user' # User for database
+DB_PASSWORD='database_password' # User password
+DB_HOST='localhost' # Host running DBMS
+DB_NAME='database_name'  # database name
+DB_PORT='3306' # port where DBMS is running
